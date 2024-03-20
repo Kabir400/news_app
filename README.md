@@ -1,4 +1,4 @@
-## what it is ?
+# what it is ?
 This is a news app users can see the latest news , filter them , search for the specific news and many more...
 
 
