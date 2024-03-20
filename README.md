@@ -1,3 +1,7 @@
+## what it is ?
+This is a news app users can see the latest news , filter them , search for the specific news and many more...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
